@@ -14,7 +14,7 @@
 
   <footer class="footer">
 
-    <p>© <span id="year"></span>sharumathi | Made with 💖</p>
+    <p>© <span id="year"></span>priya | Made with 💖</p>
 
   </footer>
 
